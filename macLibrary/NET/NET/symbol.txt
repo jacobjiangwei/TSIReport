@@ -1,0 +1,3 @@
+__ZN9CPPStatic8fffffff1Ev
+__ZN9CPPStatic8fffffff2Ev
+__ZN9CPPStatic8fffffff3Ev
